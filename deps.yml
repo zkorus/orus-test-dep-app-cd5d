@@ -1,0 +1,6 @@
+v: 0
+dependencies:
+  - name: orus-test-dep-lib-cd5d
+    repository: zkorus/orus-test-dep-lib-cd5d
+    version: v0.1.0
+    constraint: 0.x

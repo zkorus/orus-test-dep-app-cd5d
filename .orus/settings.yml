@@ -1,0 +1,11 @@
+v: 0
+orus: 0.0.0
+gate: node --version
+test_targets:
+  - name: app
+    language: javascript
+    path: .
+    test: node --version
+roles:
+  dependency: { model: haiku }
+max_cost_usd: 1
