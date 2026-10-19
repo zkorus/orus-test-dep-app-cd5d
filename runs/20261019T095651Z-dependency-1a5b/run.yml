@@ -5,8 +5,10 @@ role: dependency
 item: "#1"
 machine: m-57fdf708
 attempt: 2
-state: running
+state: finished
 resumes: null
 started: 2026-10-19T09:56:51Z
 role_commit: dc599867f5567fcce01b142b911337ccdfd4bfff
 agent: false
+ended: 2026-10-19T09:57:45Z
+reason: "sent the request to zkorus/orus-test-dep-lib-cd5d: https://github.com/zkorus/orus-test-dep-lib-cd5d/issues/1; recorded it in https://github.com/zkorus/orus-test-dep-app-cd5d/pull/2"
