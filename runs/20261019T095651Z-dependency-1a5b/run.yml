@@ -1,0 +1,12 @@
+v: 0
+run: 20261019T095651Z-dependency-1a5b
+repo: zkorus/orus-test-dep-app-cd5d
+role: dependency
+item: "#1"
+machine: m-57fdf708
+attempt: 2
+state: running
+resumes: null
+started: 2026-10-19T09:56:51Z
+role_commit: dc599867f5567fcce01b142b911337ccdfd4bfff
+agent: false
