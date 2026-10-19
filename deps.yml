@@ -4,3 +4,7 @@ dependencies:
     repository: zkorus/orus-test-dep-lib-cd5d
     version: v0.1.0
     constraint: 0.x
+    waiting_on:
+      - issue: zkorus/orus-test-dep-lib-cd5d#1
+        for: "#1"
+        fingerprint: fp:c702f62676f6f9db
